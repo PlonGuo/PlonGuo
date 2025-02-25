@@ -1,7 +1,7 @@
 # Hi there, I'm Jason Guo! 👋
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Makeform.ai](https://github.com/nilveryboring/makeform.github.io)
+- 🔭 I’m currently working on [Makeform.ai](https://github.com/nilveryboring/makeform.github.io) [🔗 Live Site](https://makeform.ai)
 - 🌱 I’m currently learning TypeScript, Android/IOS Developement, and AI-assisted development tools.
 - 📫 How to reach me: [jason.ghzr@gmail.com](mailto:jason.ghzr@gmail.com)
 
