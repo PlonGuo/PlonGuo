@@ -3,7 +3,7 @@
 ## 🚀 About Me
 - 🔭 I’m currently working on [Makeform.ai](https://github.com/nilveryboring/makeform.github.io) [🔗 Live Site](https://makeform.ai)
 - 🌱 I’m currently learning TypeScript, Android/IOS Developement, and AI-assisted development tools.
-- 📫 View my personal website on https://jason-portfolio-inky.vercel.app/
+- 📫 View my personal website: https://jason-portfolio-inky.vercel.app/
 
 ---
 
