@@ -54,4 +54,4 @@
 
 ## 📌 Pinned Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nilveryboring&repo=makeform.github.io&theme=radical)](https://github.com/nilveryboring/makeform.github.io)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=niln1&repo=autofillr-extension&theme=radical)](https://github.com/niln1/autofillr-extension)
+🔒 [autofillr-extension (private)](https://github.com/niln1/autofillr-extension)[Live Web](https://autofillr.com)
