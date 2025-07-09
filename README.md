@@ -54,4 +54,3 @@
 
 ## 📌 Pinned Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nilveryboring&repo=makeform.github.io&theme=radical)](https://github.com/nilveryboring/makeform.github.io)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PlonGuo&repo=KamaChat&theme=radical)](https://github.com/PlonGuo/KamaChat)
