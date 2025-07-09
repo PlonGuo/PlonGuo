@@ -54,4 +54,4 @@
 
 ## 📌 Pinned Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nilveryboring&repo=makeform.github.io&theme=radical)](https://github.com/nilveryboring/makeform.github.io)
-[![Private Repo](https://img.shields.io/badge/autofillr--extension-private%20repo-blueviolet)](https://github.com/niln1/autofillr-extension)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PlonGuo&repo=KamaChat&theme=radical)](https://github.com/PlonGuo/KamaChat)
