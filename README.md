@@ -2,8 +2,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on [Makeform.ai](https://github.com/nilveryboring/makeform.github.io) [🔗 Live Site](https://makeform.ai)
-- 🌱 I’m currently learning TypeScript, Android/IOS Developement, and AI-assisted development tools.
-- 📫 View my personal website: https://plonguo.com
+- 📫 View my personal website: plonguo.com
 
 ---
 
@@ -21,6 +20,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 ### 🗄️ Database
@@ -54,4 +54,3 @@
 
 ## 📌 Pinned Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=nilveryboring&repo=makeform.github.io&theme=radical)](https://github.com/nilveryboring/makeform.github.io)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PlonGuo&repo=Ecommerce-Platform&theme=radical)](https://github.com/PlonGuo/Ecommerce-Platform)
