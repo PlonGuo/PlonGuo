@@ -1,8 +1,8 @@
 # Hi there, I'm Jason Guo! 👋
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Makeform.ai](https://github.com/nilveryboring/makeform.github.io) [🔗 Live Site](https://makeform.ai)
-- 📫 View my personal website: plonguo.com
+- 🔭 I’m currently working on [Makeform.ai](https://github.com/nilveryboring/makeform.github.io)
+- 📫 View my personal website: [plonguo.com](https://plonguo.com)
 
 ---
 
