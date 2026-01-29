@@ -1,8 +1,7 @@
 # Hi there, I'm Jason Guo! 👋
 
 ## 🚀 About Me
-- I'm currently working for [Next Play Game](https://www.nextplaygamesus.com/?srsltid=AfmBOorOGqK_ZBeSFQ17Vkm3tvjGFzYs6hOrWWTfdpRdH4d9d0prlI2A)
-- 🔭 I've contributed on [Makeform.ai](https://github.com/nilveryboring/makeform.github.io)
+- 🔭 I've contributed on [Next Play Game](https://www.nextplaygamesus.com/?srsltid=AfmBOorOGqK_ZBeSFQ17Vkm3tvjGFzYs6hOrWWTfdpRdH4d9d0prlI2A) and [Makeform.ai](https://github.com/nilveryboring/makeform.github.io) 
 - 📫 View my personal website: [plonguo.com](https://plonguo.com)
 
 ---
